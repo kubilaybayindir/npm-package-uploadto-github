@@ -1,0 +1,29 @@
+{
+    "name": "kubilay-bayindir",
+    "version": "1.0.0",
+    "description": "trialproject",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "kubilay": "echo 'Benim Adım Kubilay'",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "deneme",
+        "paket"
+    ],
+    "author": "Kubilay Bayindir",
+    "license": "ISC",
+    "dependencies": {
+        "mongoose": "^6.1.7",
+        "nodemailer": "^6.7.2",
+        "simple-is": "^0.2.0"
+    },
+    "devDependencies": {
+        "webpack-cli": "^4.9.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kubilaybayindir/npm-package-uploadto-github.git"
+    }
+}
